@@ -1,0 +1,6 @@
+https://registration-pal-juan-giorgio.apps.pikes.pal.pivotal.io/users/4
+https://registration-pal-juan-giorgio.apps.pikes.pal.pivotal.io/accounts?ownerId=4
+https://registration-pal-juan-giorgio.apps.pikes.pal.pivotal.io/projects?accountId={ACCOUNT_ID}
+https://allocations-pal-juan-giorgio.apps.pikes.pal.pivotal.io/allocations?projectId={PROJECT_ID}
+https://backlog-pal-juan-giorgio.apps.pikes.pal.pivotal.io/stories?projectId={PROJECT_ID}
+https://timesheets-pal-juan-giorgio.apps.pikes.pal.pivotal.io/time-entries?userId=4
